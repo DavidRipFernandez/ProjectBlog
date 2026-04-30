@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BlogTecorp.Api/BlogTecorp.Api.csproj" Id="24e95f56-1722-4709-a7d5-99aba05d52b7" />
+  <Project Path="BlogTecorp.Application/BlogTecorp.Application.csproj" />
+  <Project Path="BlogTecorp.Domain/BlogTecorp.Domain.csproj" />
+  <Project Path="BlogTecorp.Infrastructure/BlogTecorp.Infrastructure.csproj" Id="84543f80-30cb-4947-8f4b-01edf9c0ef38" />
+</Solution>
